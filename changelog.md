@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+-   Update the `react` version in peer dependencies.
 -   Use `CommonJS` instead of `ESNext` for module code generation.
 
 ## [1.0.0] - 2022-07-01

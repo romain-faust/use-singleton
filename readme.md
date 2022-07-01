@@ -22,7 +22,7 @@ yarn add @romain-faust/use-singleton
 
 ### Dependencies
 
--   [react](https://www.npmjs.com/package/react) (>=16.8)
+-   [react](https://www.npmjs.com/package/react) (>=16.8.6)
 
 ## Usage
 

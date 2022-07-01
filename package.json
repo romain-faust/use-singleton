@@ -28,7 +28,7 @@
 	"main": "build/index.js",
 	"name": "@romain-faust/use-singleton",
 	"peerDependencies": {
-		"react": ">=16.8"
+		"react": ">=16.8.6"
 	},
 	"publishConfig": {
 		"access": "public"
